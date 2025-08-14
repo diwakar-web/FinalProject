@@ -1,0 +1,5 @@
+{
+  "name": "campuscrate",
+  "private": true,
+  "workspaces": ["backend", "frontend"]
+}
